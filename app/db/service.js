@@ -18,5 +18,5 @@ export default {
 };
 
 (async () => {
-  realPath = await fs.realPath("./");
+  realPath = await fs.realpath("./");
 })();
