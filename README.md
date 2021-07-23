@@ -6,6 +6,10 @@
 
 An application called Note Taker that can be used to write and save notes using an Express.js back-end and JSON
 
+### Live Deployment
+
+https://tranquil-oasis-42231.herokuapp.com/
+
 ### Screen shots
 
 index page:
