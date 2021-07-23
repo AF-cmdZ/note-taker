@@ -29,7 +29,7 @@ npm i, npm i express, npm i nanoid, npm start
 ## Usage
 
 _Instructions for use:_
-Javascript, HTML, CSS, Node, Heroku
+When running npm start it should open up your Note Taker on local host, and the user will be able to ENTER, SAVE, and DELETE notes.
 
 ## License
 
