@@ -28,7 +28,7 @@ notes page:
 
 _Steps required to install this project and get the application running:_
 
-npm i, npm start
+git clone repo, npm i, npm start, open browser to localhost:3000
 
 ## Usage
 
