@@ -28,7 +28,7 @@ notes page:
 
 _Steps required to install this project and get the application running:_
 
-npm i, npm i express, npm i nanoid, npm start
+npm i, npm start
 
 ## Usage
 
